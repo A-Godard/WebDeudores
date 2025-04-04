@@ -1,0 +1,69 @@
+﻿@model WebDeudoresAlimenticios3._0.Models.AbogadoAsociadoComb
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>AbogadoAsociadoComb</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="NombreTutor" class="control-label"></label>
+                <input asp-for="NombreTutor" class="form-control" />
+                <span asp-validation-for="NombreTutor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NombreAbogado" class="control-label"></label>
+                <input asp-for="NombreAbogado" class="form-control" />
+                <span asp-validation-for="NombreAbogado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ApellidosAbogado" class="control-label"></label>
+                <input asp-for="ApellidosAbogado" class="form-control" />
+                <span asp-validation-for="ApellidosAbogado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Correo" class="control-label"></label>
+                <input asp-for="Correo" class="form-control" />
+                <span asp-validation-for="Correo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Celular" class="control-label"></label>
+                <input asp-for="Celular" class="form-control" />
+                <span asp-validation-for="Celular" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cedula" class="control-label"></label>
+                <input asp-for="Cedula" class="form-control" />
+                <span asp-validation-for="Cedula" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Direccion" class="control-label"></label>
+                <input asp-for="Direccion" class="form-control" />
+                <span asp-validation-for="Direccion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumeroDeCarnet" class="control-label"></label>
+                <input asp-for="NumeroDeCarnet" class="form-control" />
+                <span asp-validation-for="NumeroDeCarnet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

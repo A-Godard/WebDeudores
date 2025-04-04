@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebDeudoresAlimenticios3._0
+build_property.RootNamespace = WebDeudoresAlimenticios3._0
+build_property.ProjectDir = C:\Users\sabal\source\repos\WebDeudoresAlimenticios3.0\WebDeudoresAlimenticios3.0\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sabal\source\repos\WebDeudoresAlimenticios3.0\WebDeudoresAlimenticios3.0
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/AbogadoAsociadoCombs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvZ2Fkb0Fzb2NpYWRvQ29tYnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/AbogadoAsociadoCombs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvZ2Fkb0Fzb2NpYWRvQ29tYnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/AbogadoAsociadoCombs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvZ2Fkb0Fzb2NpYWRvQ29tYnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/AbogadoAsociadoCombs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvZ2Fkb0Fzb2NpYWRvQ29tYnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/AbogadoAsociadoCombs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvZ2Fkb0Fzb2NpYWRvQ29tYnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/DeudorHijoCombs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9ySGlqb0NvbWJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/DeudorHijoCombs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9ySGlqb0NvbWJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/DeudorHijoCombs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9ySGlqb0NvbWJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/DeudorHijoCombs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9ySGlqb0NvbWJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/DeudorHijoCombs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9ySGlqb0NvbWJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/Deudors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/Deudors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/Deudors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/Deudors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/Deudors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV1ZG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/FamiliarDeudorCombs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWxpYXJEZXVkb3JDb21ic1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/FamiliarDeudorCombs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWxpYXJEZXVkb3JDb21ic1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/FamiliarDeudorCombs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWxpYXJEZXVkb3JDb21ic1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/FamiliarDeudorCombs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWxpYXJEZXVkb3JDb21ic1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/FamiliarDeudorCombs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWxpYXJEZXVkb3JDb21ic1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/TutorLegalCombs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JMZWdhbENvbWJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/TutorLegalCombs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JMZWdhbENvbWJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/TutorLegalCombs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JMZWdhbENvbWJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/TutorLegalCombs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JMZWdhbENvbWJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/TutorLegalCombs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JMZWdhbENvbWJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sabal/source/repos/WebDeudoresAlimenticios3.0/WebDeudoresAlimenticios3.0/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-eylx8lnqe8

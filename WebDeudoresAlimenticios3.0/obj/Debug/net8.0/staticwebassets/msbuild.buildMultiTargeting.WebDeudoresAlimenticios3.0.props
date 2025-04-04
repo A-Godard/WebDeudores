@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebDeudoresAlimenticios3.0.props" />
+</Project>

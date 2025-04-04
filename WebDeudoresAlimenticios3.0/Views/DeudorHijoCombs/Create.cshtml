@@ -1,0 +1,86 @@
+﻿@model WebDeudoresAlimenticios3._0.Models.DeudorHijoComb
+@{
+    ViewData["Title"] = "Crear Registro";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>Crear Registro</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@500;700&display=swap" rel="stylesheet">
+
+    <!-- Iconos y Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Estilos Personalizados -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body class="bg-dark text-white">
+    <div class="container mt-5">
+        <h2 class="text-center text-primary">Crear Registro</h2>
+        <p class="text-center">Ingrese los datos del nuevo deudor</p>
+        <hr class="border-primary">
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card p-4" style="background-color: #343a40; border: 1px solid #007bff;">
+                    <h5 class="text-center text-primary"><i class="bi bi-person-plus"></i> Nuevo Deudor</h5>
+
+                    <form asp-action="Create">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="mb-3">
+                            <label asp-for="PadreDeudor" class="form-label"><i class="bi bi-person"></i>Padre Deudor</label>
+                            <input asp-for="PadreDeudor" class="form-control" />
+                            <span asp-validation-for="PadreDeudor" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="NombreHijo" class="form-label"><i class="bi bi-person"></i>Nombre Hijo</label>
+                            <input asp-for="NombreHijo" class="form-control" />
+                            <span asp-validation-for="NombreHijo" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Correo" class="form-label"><i class="bi bi-person"></i>Correo</label>
+                            <input asp-for="Correo" class="form-control" />
+                            <span asp-validation-for="Correo" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Celular" class="form-label"><i class="bi bi-person"></i>Celular</label>
+                            <input asp-for="Celular" class="form-control" />
+                            <span asp-validation-for="Celular" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary"><i class="bi bi-save"></i> Guardar</button>
+                            <a asp-action="Index" class="btn btn-outline-light"><i class="bi bi-arrow-left"></i> Regresar</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/main.js"></script>
+
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+</body>
+
+</html>
